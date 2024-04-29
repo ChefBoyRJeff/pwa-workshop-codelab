@@ -1,0 +1,13 @@
+{
+  "file_handlers": [
+    {
+      "action": {
+        "default": true,
+        "type": "window"
+      },
+      "accept": {
+        "text/markdown": [".md", ".markdown"]
+      }
+    }
+  ]
+}
